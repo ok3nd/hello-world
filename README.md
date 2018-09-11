@@ -1,5 +1,5 @@
 # hello-world
-mitt första test
+My first test
 
 Hello guys!
 
